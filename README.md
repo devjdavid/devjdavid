@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jonathan 👋
+
+🎓 Software Engineering Student  
+📍 Bogotá, Colombia  
+💻 Interested in Front-End Development  
+🌱 Currently learning JavaScript and Git  
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- Git
+
+## Goals
+Become a professional software developer and build useful applications.
 
 <!--
 **devjdavid/devjdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
