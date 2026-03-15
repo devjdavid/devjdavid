@@ -1,30 +1,25 @@
 # Hi, I'm Jonathan 👋
 
-🎓 Software Engineering Student  
+🎓 Software Engineering Student | Aspiring Full Stack Developer  
 📍 Bogotá, Colombia  
 💻 Interested in Front-End Development  
 🌱 Currently learning JavaScript and Git  
 
 ## Technologies
+- Java
+- Node.js
 - HTML
 - CSS
 - JavaScript
 - Git
+- SQL
 
 ## Goals
 Become a professional software developer and build useful applications.
 
-<!--
-**devjdavid/devjdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+- Portfolio Website
+- Text Encryptor
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+https://devjdavid.github.io/portfolio-website
